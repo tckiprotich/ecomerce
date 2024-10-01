@@ -20,10 +20,6 @@ const inter = Inter({
   variable: "--font-inter",
 });
 
-export const metadata: Metadata = {
-  title: "E-commerce ",
-  description: "Audio Commerce ",
-};
 
 export default function RootLayout({
   children,
